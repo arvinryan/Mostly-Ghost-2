@@ -1,3 +1,3 @@
 # Mostly-Ghost-2
 School Project
-First Draft
+First Draft - The Ghost
