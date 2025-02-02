@@ -3,4 +3,4 @@ School Project
 First Draft - The Ghost 
 
 Unity Sample Scene 
-Graveyard Sequence
+Graveyard Sequence 
